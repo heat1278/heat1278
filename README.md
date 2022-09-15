@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heat1278
-- 👀 I’m interested in learning python (Trying (and failing mostly!) to complete my #100daystocode)
+- 👀 I’m interested in learning python (Trying (and failing mostly!) to complete my #100daysofcode)
 - 🌱 I’m currently learning patience via python.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me still working on that. :d
